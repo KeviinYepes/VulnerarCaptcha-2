@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VulnerarCaptcha-2
 
 > ⚠️ **Aviso legal y ético** — Este proyecto demuestra vulnerabilidades en mecanismos CAPTCHA. Su uso debe ser estrictamente con fines educativos, de auditoría o investigación. No promuevas ni uses estas técnicas para actividades maliciosas, automatización indebida o vulnerar la privacidad de terceros.
